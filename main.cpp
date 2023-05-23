@@ -1,4 +1,4 @@
-#define DEBUG_CONSOLE // Uncomment this if you want a debug console
+//#define DEBUG_CONSOLE // Uncomment this if you want a debug console
 
 // Mod Name. Make sure it matches the mod folder's name
 #define MOD_NAME "Custom-UI"
