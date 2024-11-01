@@ -1,6 +1,4 @@
 # UI-Example
- example that shows how to add custom UI to your mod.
- in this example it adds ui `Interface` for Player hud render.
- and puts some ui elements into it like `Text` and `Image`.
+ An example mod for adding custom UI.
 
- it also uses custom asset for the image. (`someTex.png` which it loads from `.\mods\Custom-UI\someTex.png`)
+ Also includes a custom texture asset (`someTex.png`)

@@ -1,0 +1,13 @@
+{
+  id: "tr1ngledev.custom-ui",
+  name: "Custom-UI",
+  author: "Tr1NgleDev",
+  description: "An example mod for adding custom ui.",
+  version: "1.0",
+  gameVersion: "0.2.1.4",
+  modDLL: "4DMod.dll",
+  externalDLLs: [
+  ],
+  dependencies: {
+  },
+}
