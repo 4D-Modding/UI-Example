@@ -62,7 +62,7 @@ $hook(void, StateGame, init, StateManager& s)
 	texRenderer.init();
 
 	// initialize the Interface
-	ui = gui::Interface{ s.window };
+	ui.window = s.window;
 	ui.viewportCallback = viewportCallback;
 	ui.viewportUser = s.window;
 	ui.font = &font;
